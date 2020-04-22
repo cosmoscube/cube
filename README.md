@@ -1,0 +1,2 @@
+# cube
+coswasm vm
